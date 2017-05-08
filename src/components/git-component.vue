@@ -10,7 +10,8 @@
 export default{
   data(){
     return{
-     message:"this is new message"
+     message:"this is new message",
+     wish: "git is useless"
     }
   }
 }
