@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Hello from '@/components/Hello'
-import GittuComponents from '@/components/git-component'
+import GitComponents from '@/components/git-component'
 
 Vue.use(Router)
 
@@ -10,7 +10,7 @@ export default new Router({
     {
       path: '/',
       name: 'Hello',
-      component: GittuComponents
+      component: GitComponents
     }
   ]
 })
