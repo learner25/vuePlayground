@@ -1,7 +1,7 @@
 <template>
 
 <div>
-{{message}}
+{{message}} wishes from {{wish}}
 </div>
 </template>
 
